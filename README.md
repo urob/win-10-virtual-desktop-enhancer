@@ -1,5 +1,8 @@
 # Windows 11 Virtual Desktop Enhancer
 
+This is a minor modification of win-10-virtual-desktop-enhancer by sdias (Sergio
+Dias), adapting it to Windows 11.
+
 ## Introduction
 
 Windows 11 Virtual Desktop Enhancer is a [AutoHotkey](https://autohotkey.com/) script which adds some useful features to Windows 11 Virtual Desktops, like:
@@ -35,9 +38,9 @@ This means you are free to modify and redistribute this program as you wish, but
 
 ## Credits
 
-This repo is a minor modification of win-10-virtual-desktop-enhancer by sdias (Sergio
-Dias), adapting it to Windows 11. All credits are due to him and the contributors to the
-original repo, listed below.
+This is a minor modification of win-10-virtual-desktop-enhancer by sdias (Sergio
+Dias), adapting it to Windows 11. All credits go to him and the contributors to the
+original project, listed below.
 
 Thanks to GioBonvi (Giorgio Bonvicini) for all of his contributions to this project, and his active role as collaborator.
 
